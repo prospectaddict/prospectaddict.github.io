@@ -1,2 +1,8 @@
 remote_theme: "mmistakes/so-simple-theme"
-title.yeet
+locale: en-US
+title: Prospect Addict
+logo:https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Solid_blue.svg/225px-Solid_blue.svg.png
+read_time: true
+words_per_minute: 200
+twitter:
+  username: prospectaddict
